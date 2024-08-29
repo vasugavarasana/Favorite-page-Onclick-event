@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-color: #894bca;
+    height: 40vh;
+    background-size: cover;
+}
+
+.main-heading {
+    color: #ffffff;
+    font-family: Bree Serif;
+    font-size: 25px;
+    font-weight: 400;
+    padding: 20px;
+    width: 35px;
+}
+
+.container-image {
+    height: 180px;
+    width: 200px;
+    padding: 10px;
+}
+
+.selection-container {
+    background-color: #ffffff;
+    height: 60vh;
+    background-size: cover;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.selection-container-heading {
+    color: #f780c3;
+    font-family: Bree Serif;
+    font-weight: 300;
+    font-size: 20px;
+    padding: 15px;
+}
+
+.apps-container {
+    padding: 10px;
+}
+
+.selection-container-image {
+    height: 70px;
+    width: 70px;
+}
+
+.selection-container-image-heading {
+    color: #323f4b;
+    font-family: Bree Serif;
+    font-weight: 300;
+    font-size: 25px;
+}
+
+.selection-container-image-paragraph {
+    color: #7b8794;
+    font-family: Bree Serif;
+    font-size: 13px;
+    padding: 6px;
+}
